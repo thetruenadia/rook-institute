@@ -1,0 +1,8 @@
+{
+  "reference_composition": [
+    0.402239490361496,
+    0.5319261737275282,
+    0.06583433591097582
+  ],
+  "provenance": "Excerpt of archived E13 results.json; only the reference_composition field is consumed by column.py. E13 has not been rerun on GitHub."
+}
