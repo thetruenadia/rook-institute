@@ -1,0 +1,5 @@
+# GitHub reproduction scope
+
+This is a minimal executable transfer of Experiment 14, not the entire original ZIP. The original `column.py` and research README are transferred from archived files. The density secants in `prior_E13/reference.csv` and reference composition in `prior_E13/results.json` are taken from the archived E13 inputs. The latter is an explicitly labelled excerpt, not the entire E13 result. E13 source, full dataset, archived logs and original E14 output datasets are not included in this initial transfer. The historical README describes the original full archive, not the files present here.
+
+The workflow checks the archived source and input table checksums, runs E14 twice using pinned Python and NumPy versions, compares six freshly generated outputs, and records comparison with historical output hashes. Cross-platform floating-point differences are possible; an archive mismatch is not silently treated as replication. Physical validation and the failed deep-column resolution screen remain outstanding. GitHub execution is not established until logs are retrieved and reviewed.
